@@ -6,6 +6,9 @@ Effortless Reveal.js slide creation with Vite and external file support.
 
 This project provides a streamlined way to create and manage Reveal.js presentations using Vite. It supports loading slides from external HTML files and includes hot module replacement (HMR) for a smooth development experience.
 
+## View the Presentation Online
+You can view the presentation online at [https://iegorov.github.io/reveal-slide-vite/](https://iegorov.github.io/reveal-slide-vite/).
+
 ## Features
 
 - **Reveal.js Integration**: Easily create presentations with the powerful Reveal.js library.
