@@ -1,0 +1,33 @@
+{
+  "name": "reveal-slide-vite",
+  "version": "1.0.0",
+  "description": "Effortless Reveal.js slide creation with Vite and external file support.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "deploy": "vite build && gh-pages -d dist"
+  },
+  "keywords": [
+    "reveal.js",
+    "vite",
+    "slides",
+    "presentation",
+    "slide management",
+    "presentation tool"
+  ],
+  "author": "Ivan Egorov",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "highlight.js": "^11.5.1",
+    "markdown-it": "^12.3.2",
+    "reveal.js": "^5.1.0"
+  },
+  "devDependencies": {
+    "ejs": "^3.1.10",
+    "gh-pages": "^6.2.0",
+    "prettier": "^3.4.2",
+    "vite": "^6.0.3",
+    "vite-plugin-html": "^3.2.2"
+  }
+}
